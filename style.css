@@ -1,0 +1,18 @@
+h1{
+    font-weight: bolder;
+    border: black solid 2px;
+}
+
+p{
+    text-decoration:wavy;
+}
+
+h2{
+    font-weight: bolder;
+    border: black solid 10px;
+}
+
+img{
+    border: blue solid 10px;
+    border-radius: 10px;
+}
