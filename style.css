@@ -25,6 +25,10 @@ h2:hover{
     color: green;
 }
 
+h3{
+    text-decoration: double;
+}
+
 img:hover{
     border: blue solid 10px;
     border-radius: 10px;
