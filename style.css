@@ -3,8 +3,17 @@ h1{
     border: black solid 2px;
 }
 
+h1:hover{
+    color: green;
+}
+
 p{
-    text-decoration:wavy;
+    text-decoration:underline;
+    border: 5px solid black;
+}
+
+p:hover{
+    background-color: yellow;
 }
 
 h2{
@@ -12,7 +21,13 @@ h2{
     border: black solid 10px;
 }
 
-img{
+h2:hover{
+    color: green;
+}
+
+img:hover{
     border: blue solid 10px;
     border-radius: 10px;
+    padding: 10px;
+    background-color: white;
 }
